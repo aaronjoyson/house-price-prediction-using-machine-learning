@@ -50,14 +50,14 @@ house_price_prediction/
 │
 ├── app.py
 ├── data/
-│   └── housing_with_ocean_proximity.csv
-│
+   └── housing_with_ocean_proximity.csv
+
 ├── models/
-│   ├── best_model_rf.joblib
-│   ├── best_model_lr.joblib
-│   ├── best_model_gb.joblib
-│   └── best_model_encoder.joblib
-│
+    ├── best_model_rf.joblib
+    ├── best_model_lr.joblib
+    ├── best_model_gb.joblib
+    └── best_model_encoder.joblib
+
 ├── requirements.txt
 └── README.md
 
